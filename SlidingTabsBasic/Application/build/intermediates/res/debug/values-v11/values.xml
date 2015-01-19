@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/3-Projects/Polikoi/7.DevelopOrConfigure/7c.Build/adk_Java_AS_Basics_T1/SlidingTabsBasic/Application/src/main/res/values-v11/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Holo.Light"/>
+</resources>
